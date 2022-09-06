@@ -1,12 +1,60 @@
 0x03. Shell, init files, variables and expansions
 1. Create a script that creates an alias, Name: ls, Value: rm *
 2. Create a script that prints hello user, where user is the current Linux user.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+3. Create a script that counts the number of directories in the PATH.
+4. Create a script that lists environment variables.
+5. Create a script that lists all local variables and environment variables, and functions.
+6. Create a script that creates a new local variable.
+7. Create a script that creates a new global variable.
+8. Write a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
+9. Write a script that prints the result of POWER divided by DIVIDE, followed by a new line.
+10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath
+11. Write a script that converts a number from base 2 to base 10.
+12. Create a script that prints all possible combinations of two letters, except oo.
+13. Write a script that prints a number with two decimal places, followed by a new line.
+14. Write a script that converts a number from base 10 to base 16.
+15. Write a script that encodes and decodes text using the rot13 encryption. Assume ASCII.
+16. Write a script that prints every other line from the input, starting with the first line.
+17. Write a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+-- INSERT --                                                                                                                                                                                                   18,5          All
 
